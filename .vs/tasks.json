@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "$/altynai/Desktop/Simple Grading System in C#/Grading System/Grading System.csproj",
+                "${workspaceFolder}/Grading System/Grading System.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
