@@ -1,0 +1,10 @@
+C:\Users\Mark\source\repos\Grading System\Grading System\bin\Debug\Grading System.exe.config
+C:\Users\Mark\source\repos\Grading System\Grading System\bin\Debug\Grading System.exe
+C:\Users\Mark\source\repos\Grading System\Grading System\bin\Debug\Grading System.pdb
+C:\Users\Mark\source\repos\Grading System\Grading System\obj\Debug\Grading System.csprojAssemblyReference.cache
+C:\Users\Mark\source\repos\Grading System\Grading System\obj\Debug\Grading_System.Form1.resources
+C:\Users\Mark\source\repos\Grading System\Grading System\obj\Debug\Grading_System.Properties.Resources.resources
+C:\Users\Mark\source\repos\Grading System\Grading System\obj\Debug\Grading System.csproj.GenerateResource.cache
+C:\Users\Mark\source\repos\Grading System\Grading System\obj\Debug\Grading System.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Grading System\Grading System\obj\Debug\Grading System.exe
+C:\Users\Mark\source\repos\Grading System\Grading System\obj\Debug\Grading System.pdb
